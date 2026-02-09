@@ -2,6 +2,13 @@
 
 Aplikasi visualisasi interaktif untuk membandingkan algoritma pencarian pasangan titik terdekat (Closest Pair of Points).
 
+## Anggota Kelompok 7 IF11
+
+- **10124397** - Maulana Fadzril Sukmana
+- **10124423** - Kayfa Asfa Ghifari
+- **10124427** - Irfan Nur Rasyid
+- **10124433** - Ade Muchlisidin
+
 ## Fitur
 
 - **Dua Algoritma**: Brute Force (O(n²)) dan Divide & Conquer (O(n log n))
