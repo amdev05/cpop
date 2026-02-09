@@ -39,43 +39,7 @@ npm run dev
 
 Aplikasi akan berjalan di `http://localhost:5173` (atau port lain jika sudah digunakan).
 
-## Build untuk Production
-
-```bash
-npm run build
-```
-
-Output akan ada di folder `dist/`.
-
-## Preview Production Build
-
-```bash
-npm run preview
-```
-
-## Deployment ke Vercel
-
-### Cara 1: Vercel CLI
-
-```bash
-npm install -g vercel
-vercel
-```
-
-### Cara 2: Vercel Dashboard
-
-1. Push kode ke GitHub/GitLab/Bitbucket
-2. Import project di [vercel.com](https://vercel.com)
-3. Vercel akan otomatis detect Vite dan deploy
-
-### Cara 3: Deploy Button
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/YOUR_REPO)
-
-**Catatan:** Vercel akan otomatis menjalankan `npm run build` dan deploy folder `dist/`.
-
 ## Tech Stack
 
 - React + Vite
-- Canvas API untuk visualisasi
-- Tailwind CSS untuk styling
+- Tailwind CSS
